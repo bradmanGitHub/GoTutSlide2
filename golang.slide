@@ -1,0 +1,37 @@
+สไลด์ สอน Golang
+
+By Somchai Saichom
+Software Developer
+somchais@gmail.com
+@somchaiS
+
+* รัน code บน slide/แก้ไขได้/แสดง line number
+
+.play -numbers -edit hello-world.go
+
+* รัน code บน slide/แก้ไขได้/ไม่แสดง line number
+
+.play -edit hello-world.go
+
+* แสดง code แค่บาง function
+
+.play -edit hello-world.go /^func main/,/^}/
+
+* แสดง link ให้กดไปที่ือื่นได้
+
+.play -edit hello-world.go /^func main/,/^}/
+
+.link https://play.golang.org/p/mbuE16A7JA7 Full Source Code
+
+* แสดง text บางส่วนใน file ที่ระบุ
+
+.text sampleFile.txt /BEGIN Pragraph1/,/END Pragraph1/
+
+.text sampleFile.txt /BEGIN Pragraph2/,/END Pragraph2/
+
+.text sampleFile.txt /BEGIN Pragraph3/,/END Pragraph3/
+
+* แสดงข้อความธรรมดา
+ฮันนีมูนรอยัลตี้ฟอร์มพุทธศตวรรษ แหวววิดีโอแฟรี่ นอร์ทโบตั๋นคอนเซ็ปต์สต๊อก พฤหัสอัลตราติงต๊องออทิสติกเฉิ่ม 
+รีไซเคิล คอร์ปอเรชั่น มาร์เก็ตจตุคาม ออเดอร์แบตรองรับแล็บฮ็อต เซ็กส์ ไนน์ โพสต์โปรเจคท์ บริกรแหม็บ 
+โปรโมเดิร์นเอ็นจีโอโปสเตอร์ สจ๊วต ชาร์จละอ่อนยนตรกรรม ลิมูซีนออสซี่ลาเต้ฟรังก์

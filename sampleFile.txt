@@ -1,0 +1,17 @@
+// BEGIN Pragraph1
+ if err != nil {
+           fmt.Println("just for test if")
+ }
+// END Pragraph1
+
+// BEGIN Pragraph2
+else {
+                fmt.Println("just for test else")
+        }
+// END Pragraph2
+
+// BEGIN Pragraph3
+if x > m {
+    x = m
+}
+// END Pragraph3
