@@ -25,11 +25,11 @@ somchais@gmail.com
 
 * แสดง text บางส่วนใน file ที่ระบุ
 
-.text sampleFile.txt /BEGIN Pragraph1 OMIT/,/END Pragraph1 OMIT/
+.code sampleFile.txt /BEGIN Pragraph1 OMIT/,/END Pragraph1 OMIT/
 
-.text sampleFile.txt /BEGIN Pragraph2 OMIT/,/END Pragraph2 OMIT/
+.code sampleFile.txt /BEGIN Pragraph2 OMIT/,/END Pragraph2 OMIT/
 
-.text sampleFile.txt /BEGIN Pragraph3 OMIT/,/END Pragraph3 OMIT/
+.code sampleFile.txt /BEGIN Pragraph3 OMIT/,/END Pragraph3 OMIT/
 
 * แสดงข้อความธรรมดา
 ฮันนีมูนรอยัลตี้ฟอร์มพุทธศตวรรษ แหวววิดีโอแฟรี่ นอร์ทโบตั๋นคอนเซ็ปต์สต๊อก พฤหัสอัลตราติงต๊องออทิสติกเฉิ่ม 
